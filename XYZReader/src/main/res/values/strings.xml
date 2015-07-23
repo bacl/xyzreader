@@ -9,4 +9,9 @@
 
     <string name="up">Up</string>
 
+
+    <string name="error_msg_no_internet">Check your internet connection</string>
+
+    <string name="error_msg_parsing_feed">Error updating content.</string>
+
 </resources>

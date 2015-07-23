@@ -8,6 +8,7 @@
     <color name="accent">#4CAF50</color> <!-- 500 -->
 
     <color name="primary_text">#e6000000</color>
+    <color name="primary_text_inverse">#e6ffffff</color>
 
     <color name="photo_placeholder">#ccc</color>
 
