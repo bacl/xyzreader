@@ -1,4 +1,8 @@
 <resources>
+
+    <dimen name="toolbar_horizontal_margin">16dp</dimen>
+    <dimen name="toolbar_vertical_margin">4dp</dimen>
+
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
@@ -8,4 +12,16 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+
+
+
+
+
+
+
+
+    <dimen name="appbar_elevation_aaa">8dp</dimen>
+
+
+    
 </resources>
