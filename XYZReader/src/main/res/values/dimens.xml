@@ -1,27 +1,42 @@
 <resources>
 
+    <!-- list -->
     <dimen name="toolbar_horizontal_margin">16dp</dimen>
     <dimen name="toolbar_vertical_margin">4dp</dimen>
+    <dimen name="list_app_bar_height">112dp</dimen>
+    <dimen name="list_toolbar_expanded_title_margin_end">64dp</dimen>
+    <dimen name="list_toolbar_expanded_title_margin_start">48dp</dimen>
+
+    <dimen name="list_card_margin_horizontal">4dp</dimen>
+    <dimen name="list_card_margin_vertical">4dp</dimen>
+
+    <dimen name="list_card_thumbnail_default_height">100dp</dimen>
+
+    <dimen name="list_card_text_padding_vertical">4dp</dimen>
+    <dimen name="list_card_text_padding_vertical_big">16dp</dimen>
+    <dimen name="list_card_text_padding_horizontal">16dp</dimen>
+
+    <integer name="list_card_text_title_lines_max">2</integer>
+    <integer name="list_card_text_author_lines_max">1</integer>
+
 
     <!-- detail -->
-    <dimen name="detail_title_text_size">32sp</dimen>
-    <dimen name="detail_body_text_size">22sp</dimen>
+
+    <dimen name="app_bar_layout_height">250dp</dimen>
+
+    <dimen name="detail_body_text_size">18sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="detail_toolbar_expanded_title_margin_bottom">40dp</dimen>
+    <dimen name="detail_toolbar_expanded_title_margin_end">64dp</dimen>
+    <dimen name="detail_toolbar_expanded_title_margin_start">48dp</dimen>
+    <dimen name="detail_card_margin_top">22dp</dimen>
+    <dimen name="detail_card_margin_bottom">88dp</dimen>
+    <dimen name="detail_card_max_width">704dp</dimen>
+    <dimen name="detail_card_elevation">8dp</dimen>
+
+    <dimen name="fab_elevation">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 
 
-
-
-
-
-
-
-
-    <dimen name="appbar_elevation_aaa">8dp</dimen>
-
-
-    
 </resources>

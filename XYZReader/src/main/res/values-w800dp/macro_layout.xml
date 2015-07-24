@@ -1,9 +1,15 @@
 <resources>
     <!-- list -->
-    <dimen name="list_side_margin">64dp</dimen>
-    <dimen name="list_toolbar_side_margin">52dp</dimen> <!-- minus 64 - 12 -->
     <integer name="list_column_count">3</integer>
 
-    <!-- detail -->
-    <dimen name="detail_card_max_width">704dp</dimen>
+    <dimen name="list_card_margin_horizontal">12dp</dimen>
+    <dimen name="list_card_margin_vertical">12dp</dimen>
+    <dimen name="list_side_margin_vertical">12dp</dimen>
+    <dimen name="list_side_margin_horizontal">12dp</dimen>
+
+    <dimen name="list_card_thumbnail_default_height">200dp</dimen>
+
+    <dimen name="list_card_text_padding_vertical">8dp</dimen>
+    <dimen name="list_card_text_padding_vertical_big">32dp</dimen>
+    <dimen name="list_card_text_padding_horizontal">32dp</dimen>
 </resources>

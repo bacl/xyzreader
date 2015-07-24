@@ -1,14 +1,15 @@
 <resources>
     <!-- using the "Deep Orange" Material Palette -->
-    <color name="primary">#FF5722</color>  <!-- 500 -->
-    <color name="primary_dark">#BF360C</color>  <!-- 600 -->
-    <color name="primary_light">#FFCCBC</color> <!-- 100 -->
+    <color name="primary">#F4511E</color>  <!-- 600 -->
+    <color name="primary_dark">#BF360C</color>  <!-- 900 -->
 
     <!-- using the "Green" Material Palette -->
-    <color name="accent">#4CAF50</color> <!-- 500 -->
+    <color name="primary_light">#00C853</color> <!-- A700 -->
 
     <color name="primary_text">#e6000000</color>
     <color name="primary_text_inverse">#e6ffffff</color>
+
+    <color name="secondary_text">#6000</color>
 
     <color name="photo_placeholder">#ccc</color>
 
